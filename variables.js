@@ -1,6 +1,5 @@
 //VAR, LESS, CONST
 
-
 /*
 less/const
 	- cannot be re-initialized
