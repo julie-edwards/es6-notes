@@ -1,9 +1,5 @@
 //TEMPLATE STRINGS
 
-/*
-~~~ Overview
-*/
-
 //math
 const dogYears = `My dog ${name} is ${age * 7} years old!`;
 

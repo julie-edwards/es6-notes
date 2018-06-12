@@ -42,6 +42,8 @@ function calculateBill(total, tax = 0.13, tip = 0.15) {
 }
 
 const totalBill = calculateBill(100, undefined, 0.25);
+//or, using destructuring
+const totalBill = calculateBill(total: 100, tip: 0.25);
 
 /*
 ~~~ Array manipulation
